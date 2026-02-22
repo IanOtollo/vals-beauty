@@ -15,6 +15,10 @@ A premium, fully responsive beauty artist portfolio website. This version has be
 - **Premium Aesthetics**: Refined gold and purple themes with elegant hover states and transitions.
 - **Performance**: Lightweight vanilla CSS and minimal JavaScript for lightning-fast loads.
 
+### 📊 Analytics
+- **Vercel Web Analytics**: Integrated analytics for tracking page views and visitor insights.
+- **Privacy-Focused**: Uses Vercel's privacy-compliant analytics without third-party cookies.
+
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, Vanilla CSS3 (Custom Design System).
 - **Backend**: PHP 8.2 (Serverless).
@@ -54,6 +58,15 @@ This project is pre-configured for **Vercel**:
 1. Push your code to GitHub.
 2. Import the repository in your Vercel Dashboard.
 3. Vercel will automatically detect the `vercel.json` and deploy it as a Serverless PHP application.
+4. Enable Web Analytics in your Vercel project dashboard under the **Analytics** tab for visitor tracking.
+
+## 📊 Analytics Setup
+This project includes Vercel Web Analytics integration:
+- The analytics script is already included in all pages
+- To enable tracking, go to your Vercel project dashboard
+- Click the **Analytics** tab and enable Web Analytics
+- After deployment, analytics will automatically track page views and visitor data
+- View insights at: `https://vercel.com/[your-username]/vals-beauty/analytics`
 
 ---
 *Perfected by Ian Otollo*
