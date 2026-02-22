@@ -56,4 +56,4 @@ This project is pre-configured for **Vercel**:
 3. Vercel will automatically detect the `vercel.json` and deploy it as a Serverless PHP application.
 
 ---
-*Perfected by Antigravity AI*
+*Perfected by Ian Otollo*
